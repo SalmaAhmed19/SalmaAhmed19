@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salma Ahmed</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif”>
+<img align="right" alt="Coding" width="400" src="https://images.wsj.net/im-568211">
+
 
 
 
@@ -15,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/SalmaAhmed19](github.com/SalmaAhmed19)
 
-- 📫 How to reach me **rashe005@csusm.edu**
+- 📫 You can reach me on  **rashe005@csusm.edu**
 
-- 📄 Know about my experiences [www.linkedin.com/in/salma-rashed](www.linkedin.com/in/salma-rashed)
+- 📄 Know about my experiences on linkedin[www.linkedin.com/in/salma-rashed](www.linkedin.com/in/salma-rashed)
 
-- ⚡ Fun fact **I was the Muslim Student Association Social Media Coordinator for 2 semesters. I also volunteer every month to help incoming refugees**
+- ⚡ Fun fact **I was the Muslim Student Association Social Media Coordinator for 2 semesters. I also volunteer every month to help incoming refugees and currently working as a Lead Computer Science Tutor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
